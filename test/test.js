@@ -1,4 +1,4 @@
-var assert = require('assert');
+const assert = require('chai').assert
 var TTT = require('../src/TTT')
 describe('Tic Tac Toe', function() {
     describe('Error play cases', function() {

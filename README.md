@@ -19,8 +19,8 @@ A sample game:
 	
  	ttt.move('x', 0, 0)
 	ttt.move('o', 1, 0)
-   ttt.move('x', 0, 1)
-   ttt.move('o', 1, 1)
-   ttt.move('x', 0, 2)
+    ttt.move('x', 0, 1)
+    ttt.move('o', 1, 1)
+    ttt.move('x', 0, 2)
 Player x won, game over!
 ```

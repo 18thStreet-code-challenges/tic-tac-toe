@@ -1,0 +1,15 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Programming challenge from FashionNova Jan 2021",
+  "main": "src/TTT/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Greg Sandell",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
